@@ -11,5 +11,7 @@ Analyze historical solar energy production data to identify trends and patterns.
 Benefits :
 
 Enhance the efficiency of solar power generation.
+
 Improve energy planning and management.
+
 Support renewable energy adoption.
