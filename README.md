@@ -1,4 +1,4 @@
-# Week1
+# Solar Power Prediction
 Repository for prediction of Solar Power for different conditions
 
 Solar Power Prediction using linear regression to help and manage solar resources efficiently
